@@ -2,8 +2,8 @@
 
 Glad to see you here! ![counter](https://enx36civpq8vkrj.m.pipedream.net)
 
-- 🔭 I’m currently working with Flutter
-- 🌱 I’m currently learning Backend
+- 🔭 I’m currently working with Flutter & Node js (PostSql)
+- 🌱 I’m currently Machine Learning
 - 💬 Ask me about Flutter
 - 💡 **Skills**:
 
