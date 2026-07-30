@@ -61,9 +61,11 @@ I build production-grade mobile applications and scalable backend systems that d
 ---
 
 ### 📌 Featured Projects  
+## 💰 AI Expense Tracker
 
-> ⚡ *Check out my pinned repositories for my latest work!*  
-> 💬 *Open to discussing Flutter, backend architecture, or any tech collaboration!*
+**Flutter • Gemini AI • Clean Architecture • Bloc • SQLite**
+
+An AI-powered expense management application with **chat-based financial assistance**. Users can record expenses, view analytics, ask questions like *"How much did I spend on food this month?"*, receive AI-generated spending insights, and manage budgets with offline-first support.
 
 <div align="center">
   
