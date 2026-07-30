@@ -1,16 +1,19 @@
-## 👨‍💻 Hi, I'm Bhupendra Pundir  
-### Full-Stack Developer | Flutter & Node.js Specialist
+👋 Hi, I'm Bhupendra Pundir
+🚀 Senior Flutter Developer | Full-Stack Mobile Engineer | Node.js Backend | AI Enthusiast
 
-Building seamless digital experiences with mobile-first solutions and scalable backend systems.
+I build production-grade mobile applications and scalable backend systems that deliver seamless user experiences. With 5+ years of experience, I specialize in Flutter development, backend APIs with Node.js, and modern software architecture. I'm currently expanding into AI Engineering, integrating intelligent features into mobile applications.
 
----
-
-### 🔥 Current Focus  
-- 🚀 **Building** with Flutter & Node.js (PostgreSQL ecosystem)  
-- 🧠 **Exploring** Machine Learning & AI integration in mobile apps  
-- 💡 **Mastering** advanced backend patterns 
-
----
+💼 Experience
+📱 5+ years of professional Flutter development
+🚀 14+ production applications delivered on Android & iOS
+🏢 Experience across E-commerce, EdTech, Healthcare, Fitness, Enterprise, and Government domains
+⚡ Strong focus on performance optimization, maintainable architecture, and scalable applications
+🚀 Currently Working On
+📱 Building production Flutter applications
+⚙️ Developing scalable REST APIs using Node.js & PostgreSQL
+🤖 Learning AI Engineering & Machine Learning
+🧠 Exploring LLMs, RAG, MCP, AI Agents & Prompt Engineering
+🏗️ Improving System Design & Distributed Systems knowledge
 
 ### 💻 Tech Stack  
 
