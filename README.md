@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:021B79&height=220&section=header&text=Bhupendra%20Pundir&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Senior%20Flutter%20Developer%20%7C%20Mobile%20Engineer%20%7C%20Node.js%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:021B79&height=220&section=header&text=Bhupendra%20Pundir&fontSize=25&fontColor=ffffff&fontAlignY=35&desc=Flutter%20Developer%20%7C%206%2B%20Years%20Mobile%20Engineering%20%7C%20Node.js%20Backend&descAlignY=55&descSize=16&animation=fadeIn" width="100%" alt="Bhupendra Pundir - header"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=4CC9F0&center=true&vCenter=true&width=650&lines=Building+production-grade+Flutter+apps+since+2019;Node.js+%2B+PostgreSQL+backend+engineer;Exploring+AI+Agents%2C+RAG+%26+MCP;Always+shipping%2C+always+learning" alt="Typing SVG" />
